@@ -1,0 +1,13 @@
+main {
+    min-height: calc(100vh - 56px - 131px);
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    position: relative;
+    z-index: 1;
+}
+
+main#mainn {
+    position: relative;
+    z-index: 0;
+}

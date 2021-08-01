@@ -1,0 +1,35 @@
+.sub-nav-1 {
+    display: none;
+}
+
+.main-menu ul li:hover .sub-nav-1 {
+    display: block;
+    position: absolute;
+    background-color: #f8f9fa!important;
+    /* margin-top: 15px; */
+    margin-left: -15px;
+}
+
+.main-menu ul li:hover .sub-nav-1 ul {
+    display: block;
+    /* margin: 10px; */
+    list-style: none;
+}
+
+.main-menu ul li:hover .sub-nav-1 ul li {
+    width: 150px;
+    padding: 10px 0px;
+    border-bottom: 1px dotted rgb(139, 131, 131);
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
+}
+
+.main-menu ul li:hover .sub-nav-1 ul li:hover {
+    color: rgb(36, 29, 29);
+}
+
+.main-menu ul li:hover .sub-nav-1 ul li a {
+    text-decoration: none;
+    color: rgb(106, 99, 99);
+}
