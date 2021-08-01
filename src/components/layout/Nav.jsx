@@ -16,7 +16,7 @@ export default class Nav extends Component {
                       <ul>
                         <li><Link to="/danh-muc">Danh Mục</Link></li>
                         <li><Link to="/">Thiết Lập Giá</Link></li>
-                        <li><Link to="/">Kiểm Kho</Link></li>
+                        <li><Link to="khac-hang">Khac Hang</Link></li>
                       </ul>
                     </div>
                   </li>
