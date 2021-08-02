@@ -1,5 +1,5 @@
 /* eslint-disable import/no-anonymous-default-export */
-import KhachHang from './components/KhachHang'
+import KhachHang from './components/Custommer/KhachHang'
 import DefaultLayout from './layouts/DefaultLayout'
 
 export default [
