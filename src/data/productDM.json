@@ -1,0 +1,12 @@
+[
+    {"id": 1, "id_product": "SP001", "name": "Hộp phở bò phố cổ", "cost": 8000, "price": 10000, "inventory": 12, "active": false},
+    {"id": 2, "id_product": "SP002", "name": "Hộp phở bò phố cổ", "cost": 8000, "price": 10000, "inventory": 12, "active": false},
+    {"id": 3, "id_product": "SP003", "name": "Hộp phở bò phố cổ", "cost": 8000, "price": 10000, "inventory": 12, "active": false},
+    {"id": 4, "id_product": "SP004", "name": "Hộp phở bò phố cổ", "cost": 8000, "price": 10000, "inventory": 12, "active": false},
+    {"id": 5, "id_product": "SP005", "name": "Hộp phở bò phố cổ", "cost": 8000, "price": 10000, "inventory": 12, "active": false},
+    {"id": 6, "id_product": "SP006", "name": "Hộp phở bò phố cổ", "cost": 8000, "price": 10000, "inventory": 12, "active": false},
+    {"id": 7, "id_product": "SP007", "name": "Hộp phở bò phố cổ", "cost": 8000, "price": 10000, "inventory": 12, "active": false},
+    {"id": 8, "id_product": "SP008", "name": "Hộp phở bò phố cổ", "cost": 8000, "price": 10000, "inventory": 12, "active": false},
+    {"id": 9, "id_product": "SP009", "name": "Hộp phở bò phố cổ", "cost": 8000, "price": 10000, "inventory": 12, "active": false},
+    {"id": 10, "id_product": "SP010", "name": "Hộp phở bò phố cổ", "cost": 8000, "price": 10000, "inventory": 12, "active": false}
+]
